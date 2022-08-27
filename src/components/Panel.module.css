@@ -1,0 +1,9 @@
+.panel {
+    font-size: 30px;
+    color: teal;
+}
+.panelStatus {
+    text-decoration: underline;
+    text-shadow: 2px 2px 8px teal;
+    letter-spacing: 5px;
+}
